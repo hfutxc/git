@@ -2,3 +2,5 @@
 hello,world!!
 再加一行代码
 这是一个测试文件
+
+https://gitee.com/hfutchenghao/test.git
